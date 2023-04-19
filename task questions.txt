@@ -1,0 +1,19 @@
+Write a program that generates a random number between 1 and 10 and asks the user to guess what the number is. If the user guesses correctly, the program should output "Congratulations, you guessed the number!" If the user guesses incorrectly, the program should output "Sorry, try again!" and allow the user to guess again.
+
+Write a program that takes a string as input and reverses the order of the words in the string. For example, if the input string is "hello world", the program should output "world hello".
+
+Write a program that calculates the factorial of a given number. The factorial of a number is the product of all the integers from 1 to that number. For example, the factorial of 5 is 5 x 4 x 3 x 2 x 1 = 120.
+
+Write a program that takes an array of numbers as input and returns the sum of the numbers in the array.
+
+Write a program that takes a string as input and checks whether it is a palindrome. A palindrome is a word or phrase that reads the same forwards and backwards. For example, "racecar" is a palindrome.
+
+Write a program that takes a number as input and determines whether it is prime or not. A prime number is a positive integer greater than 1 that has no positive divisors other than 1 and itself.
+
+Write a program that takes an array of numbers as input and returns the highest and lowest numbers in the array.
+
+Write a program that takes a string as input and counts the number of vowels (a, e, i, o, u) in the string.
+
+Write a program that takes a number as input and calculates its square root.
+
+Write a program that takes two arrays of numbers as input and returns a new array that contains the elements that are common to both arrays.
